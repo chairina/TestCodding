@@ -1,0 +1,29 @@
+F:\1.metrodata\MVC\EmptyButcham\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+F:\1.metrodata\MVC\EmptyButcham\Data\bin\Debug\Data.exe.config
+F:\1.metrodata\MVC\EmptyButcham\Data\bin\Debug\Data.exe
+F:\1.metrodata\MVC\EmptyButcham\Data\bin\Debug\Data.pdb
+F:\1.metrodata\MVC\EmptyButcham\Data\bin\Debug\Core.exe
+F:\1.metrodata\MVC\EmptyButcham\Data\bin\Debug\EntityFramework.dll
+F:\1.metrodata\MVC\EmptyButcham\Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\1.metrodata\MVC\EmptyButcham\Data\bin\Debug\Core.pdb
+F:\1.metrodata\MVC\EmptyButcham\Data\bin\Debug\EntityFramework.xml
+F:\1.metrodata\MVC\EmptyButcham\Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\1.metrodata\MVC\EmptyButcham\Data\obj\Debug\Data.exe
+F:\1.metrodata\MVC\EmptyButcham\Data\obj\Debug\Data.pdb
+F:\1.metrodata\MVC\EmptyButcham\Data\obj\Debug\Data.Migrations.AddIngModelsSupp.resources
+F:\1.metrodata\MVC\EmptyButcham\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\Data\bin\Debug\Data.exe.config
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\Data\bin\Debug\Data.exe
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\Data\bin\Debug\Data.pdb
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\Data\bin\Debug\Core.exe
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\Data\bin\Debug\EntityFramework.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\Data\bin\Debug\Core.pdb
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\Data\bin\Debug\EntityFramework.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\Data\obj\Debug\Data.Migrations.AddIngModelsSupp.resources
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\Data\obj\Debug\Data.Migrations.AddingModelItem.resources
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\Data\obj\Debug\Data.exe
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\Data\obj\Debug\Data.pdb

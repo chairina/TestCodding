@@ -1,0 +1,230 @@
+F:\1.metrodata\MVC\EmptyButcham\API\bin\ApplicationInsights.config
+F:\1.metrodata\MVC\EmptyButcham\API\bin\roslyn\csc.exe
+F:\1.metrodata\MVC\EmptyButcham\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\1.metrodata\MVC\EmptyButcham\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\1.metrodata\MVC\EmptyButcham\API\bin\roslyn\System.Collections.Immutable.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\roslyn\System.Reflection.Metadata.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\roslyn\vbc.exe
+F:\1.metrodata\MVC\EmptyButcham\API\bin\roslyn\VBCSCompiler.exe
+F:\1.metrodata\MVC\EmptyButcham\API\bin\roslyn\VBCSCompiler.exe.config
+F:\1.metrodata\MVC\EmptyButcham\API\bin\API.dll.config
+F:\1.metrodata\MVC\EmptyButcham\API\bin\API.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\API.pdb
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Antlr3.Runtime.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\EntityFramework.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\EntityFramework.SqlServer.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.AI.Agent.Intercept.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.AI.DependencyCollector.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.AI.Web.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.AI.WindowsServer.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.ApplicationInsights.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.AspNet.Identity.Core.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.Owin.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.Owin.Security.Cookies.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.Owin.Security.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.Owin.Security.Facebook.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.Owin.Security.Google.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.Owin.Security.OAuth.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.Owin.Security.Twitter.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.Web.Infrastructure.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Newtonsoft.Json.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Owin.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\System.Net.Http.Formatting.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\System.Web.Helpers.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\System.Web.Http.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\System.Web.Http.Owin.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\System.Web.Http.WebHost.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\System.Web.Mvc.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\System.Web.Optimization.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\System.Web.Razor.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\System.Web.WebPages.Deployment.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\System.Web.WebPages.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\System.Web.WebPages.Razor.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\WebGrease.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\EntityFramework.xml
+F:\1.metrodata\MVC\EmptyButcham\API\bin\EntityFramework.SqlServer.xml
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.AI.DependencyCollector.xml
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.AI.Web.xml
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.AI.WindowsServer.xml
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.ApplicationInsights.xml
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Newtonsoft.Json.xml
+F:\1.metrodata\MVC\EmptyButcham\API\bin\System.Net.Http.Formatting.xml
+F:\1.metrodata\MVC\EmptyButcham\API\bin\System.Web.Helpers.xml
+F:\1.metrodata\MVC\EmptyButcham\API\bin\System.Web.Http.xml
+F:\1.metrodata\MVC\EmptyButcham\API\bin\System.Web.Http.WebHost.xml
+F:\1.metrodata\MVC\EmptyButcham\API\bin\System.Web.Mvc.xml
+F:\1.metrodata\MVC\EmptyButcham\API\bin\System.Web.Optimization.xml
+F:\1.metrodata\MVC\EmptyButcham\API\bin\System.Web.Razor.xml
+F:\1.metrodata\MVC\EmptyButcham\API\bin\System.Web.WebPages.xml
+F:\1.metrodata\MVC\EmptyButcham\API\bin\System.Web.WebPages.Deployment.xml
+F:\1.metrodata\MVC\EmptyButcham\API\bin\System.Web.WebPages.Razor.xml
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Antlr3.Runtime.pdb
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.AspNet.Identity.Core.xml
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.Owin.xml
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.Owin.Security.xml
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.Owin.Security.Facebook.xml
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.Owin.Security.Cookies.xml
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.Owin.Security.OAuth.xml
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.Owin.Security.Google.xml
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.Owin.Security.Twitter.xml
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\1.metrodata\MVC\EmptyButcham\API\bin\System.Web.Http.Owin.xml
+F:\1.metrodata\MVC\EmptyButcham\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+F:\1.metrodata\MVC\EmptyButcham\API\obj\Debug\API.dll
+F:\1.metrodata\MVC\EmptyButcham\API\obj\Debug\API.pdb
+F:\1.metrodata\MVC\EmptyButcham\API\bin\BusinessLogic.exe
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Common.exe
+F:\1.metrodata\MVC\EmptyButcham\API\bin\CommonServiceLocator.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Core.exe
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Data.exe
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Unity.Abstractions.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Unity.Configuration.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Unity.Container.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Unity.Interception.Configuration.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Unity.Interception.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Unity.RegistrationByConvention.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Unity.ServiceLocation.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Unity.WebApi.dll
+F:\1.metrodata\MVC\EmptyButcham\API\bin\BusinessLogic.pdb
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Common.pdb
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Core.pdb
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Data.pdb
+F:\1.metrodata\MVC\EmptyButcham\API\bin\CommonServiceLocator.pdb
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Unity.Abstractions.pdb
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Unity.Configuration.pdb
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Unity.Container.pdb
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Unity.Interception.pdb
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Unity.Interception.Configuration.pdb
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Unity.RegistrationByConvention.pdb
+F:\1.metrodata\MVC\EmptyButcham\API\bin\Unity.ServiceLocation.pdb
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\ApplicationInsights.config
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\roslyn\csc.exe
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\roslyn\System.Collections.Immutable.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\roslyn\System.Reflection.Metadata.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\roslyn\vbc.exe
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\roslyn\VBCSCompiler.exe
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\roslyn\VBCSCompiler.exe.config
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\API.dll.config
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\API.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\API.pdb
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Antlr3.Runtime.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\BusinessLogic.exe
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Common.exe
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\CommonServiceLocator.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Core.exe
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Data.exe
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\EntityFramework.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\EntityFramework.SqlServer.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.AI.DependencyCollector.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.AI.Web.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.AI.WindowsServer.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.ApplicationInsights.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.Owin.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.Owin.Security.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.Owin.Security.Google.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.Web.Infrastructure.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Newtonsoft.Json.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Owin.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\System.Net.Http.Formatting.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\System.Web.Helpers.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\System.Web.Http.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\System.Web.Http.Owin.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\System.Web.Http.WebHost.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\System.Web.Mvc.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\System.Web.Optimization.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\System.Web.Razor.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\System.Web.WebPages.Deployment.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\System.Web.WebPages.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\System.Web.WebPages.Razor.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Unity.Abstractions.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Unity.Configuration.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Unity.Container.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Unity.Interception.Configuration.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Unity.Interception.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Unity.RegistrationByConvention.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Unity.ServiceLocation.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Unity.WebApi.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\WebGrease.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\BusinessLogic.pdb
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Common.pdb
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Core.pdb
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Data.pdb
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\CommonServiceLocator.pdb
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\EntityFramework.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\EntityFramework.SqlServer.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.AI.DependencyCollector.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.AI.Web.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.AI.WindowsServer.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.ApplicationInsights.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Newtonsoft.Json.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\System.Net.Http.Formatting.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\System.Web.Helpers.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\System.Web.Http.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\System.Web.Http.WebHost.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\System.Web.Mvc.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\System.Web.Optimization.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\System.Web.Razor.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\System.Web.WebPages.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\System.Web.WebPages.Deployment.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\System.Web.WebPages.Razor.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Unity.Abstractions.pdb
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Unity.Configuration.pdb
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Unity.Container.pdb
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Unity.Interception.pdb
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Unity.Interception.Configuration.pdb
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Unity.RegistrationByConvention.pdb
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Unity.ServiceLocation.pdb
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Antlr3.Runtime.pdb
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.Owin.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.Owin.Security.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.Owin.Security.Google.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\bin\System.Web.Http.Owin.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\obj\Debug\API.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\API\obj\Debug\API.pdb

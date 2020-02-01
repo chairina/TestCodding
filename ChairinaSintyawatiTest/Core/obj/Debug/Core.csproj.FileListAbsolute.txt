@@ -1,0 +1,18 @@
+F:\1.metrodata\MVC\EmptyButcham\Core\bin\Debug\Core.exe.config
+F:\1.metrodata\MVC\EmptyButcham\Core\bin\Debug\Core.exe
+F:\1.metrodata\MVC\EmptyButcham\Core\bin\Debug\Core.pdb
+F:\1.metrodata\MVC\EmptyButcham\Core\bin\Debug\EntityFramework.dll
+F:\1.metrodata\MVC\EmptyButcham\Core\bin\Debug\EntityFramework.SqlServer.dll
+F:\1.metrodata\MVC\EmptyButcham\Core\bin\Debug\EntityFramework.xml
+F:\1.metrodata\MVC\EmptyButcham\Core\bin\Debug\EntityFramework.SqlServer.xml
+F:\1.metrodata\MVC\EmptyButcham\Core\obj\Debug\Core.exe
+F:\1.metrodata\MVC\EmptyButcham\Core\obj\Debug\Core.pdb
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\Core\bin\Debug\Core.exe.config
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\Core\bin\Debug\Core.exe
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\Core\bin\Debug\Core.pdb
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\Core\bin\Debug\EntityFramework.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\Core\bin\Debug\EntityFramework.SqlServer.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\Core\bin\Debug\EntityFramework.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\Core\bin\Debug\EntityFramework.SqlServer.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\Core\obj\Debug\Core.exe
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\Core\obj\Debug\Core.pdb

@@ -1,0 +1,32 @@
+F:\1.metrodata\MVC\EmptyButcham\BusinessLogic\bin\Debug\BusinessLogic.exe.config
+F:\1.metrodata\MVC\EmptyButcham\BusinessLogic\bin\Debug\BusinessLogic.exe
+F:\1.metrodata\MVC\EmptyButcham\BusinessLogic\bin\Debug\BusinessLogic.pdb
+F:\1.metrodata\MVC\EmptyButcham\BusinessLogic\bin\Debug\Common.exe
+F:\1.metrodata\MVC\EmptyButcham\BusinessLogic\bin\Debug\Data.exe
+F:\1.metrodata\MVC\EmptyButcham\BusinessLogic\bin\Debug\EntityFramework.dll
+F:\1.metrodata\MVC\EmptyButcham\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+F:\1.metrodata\MVC\EmptyButcham\BusinessLogic\bin\Debug\Core.exe
+F:\1.metrodata\MVC\EmptyButcham\BusinessLogic\bin\Debug\Common.pdb
+F:\1.metrodata\MVC\EmptyButcham\BusinessLogic\bin\Debug\Data.pdb
+F:\1.metrodata\MVC\EmptyButcham\BusinessLogic\bin\Debug\EntityFramework.xml
+F:\1.metrodata\MVC\EmptyButcham\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+F:\1.metrodata\MVC\EmptyButcham\BusinessLogic\bin\Debug\Core.pdb
+F:\1.metrodata\MVC\EmptyButcham\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+F:\1.metrodata\MVC\EmptyButcham\BusinessLogic\obj\Debug\BusinessLogic.exe
+F:\1.metrodata\MVC\EmptyButcham\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\BusinessLogic\bin\Debug\BusinessLogic.exe.config
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\BusinessLogic\bin\Debug\BusinessLogic.exe
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\BusinessLogic\bin\Debug\Common.exe
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\BusinessLogic\bin\Debug\Data.exe
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\BusinessLogic\bin\Debug\EntityFramework.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\BusinessLogic\bin\Debug\Core.exe
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\BusinessLogic\bin\Debug\Common.pdb
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\BusinessLogic\bin\Debug\Data.pdb
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\BusinessLogic\bin\Debug\EntityFramework.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\BusinessLogic\bin\Debug\Core.pdb
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\BusinessLogic\obj\Debug\BusinessLogic.exe
+E:\Metrodata\Bootcamp\Week 6\EmptyButcham\BusinessLogic\obj\Debug\BusinessLogic.pdb
